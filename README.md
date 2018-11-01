@@ -1,2 +1,2 @@
-# springbootdemo
-一个关于springboot2的学习及演示
+#blog
+个人博客小项目
